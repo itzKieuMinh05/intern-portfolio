@@ -82,7 +82,7 @@ const skillItem = [
     desc: 'Monitoring & visualization'
   },
   {
-    imgSrc: 'https://raw.githubusercontent.com/username/repo/main/superset.svg',
+    imgSrc: 'https://raw.githubusercontent.com/apache/superset/master/superset-frontend/src/assets/images/superset-logo-horiz.png',
     label: 'Apache Superset',
     desc: 'Data visualization & BI'
   }
