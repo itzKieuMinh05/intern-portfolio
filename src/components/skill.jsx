@@ -70,6 +70,21 @@ const skillItem = [
     imgSrc: 'https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg',
     label: 'dbt',
     desc: 'Analytics engineering / transformations'
+  },
+  {
+    imgSrc: 'https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg',
+    label: 'Power BI',
+    desc: 'Business intelligence & analytics'
+  },
+  {
+    imgSrc: 'https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg',
+    label: 'Grafana',
+    desc: 'Monitoring & visualization'
+  },
+  {
+    imgSrc: 'https://www.vectorlogo.zone/logos/apache_superset/apache_superset-icon.svg',
+    label: 'Apache Superset',
+    desc: 'Data visualization & BI'
   }
 ];
 
