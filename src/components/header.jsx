@@ -17,7 +17,7 @@ const Header = () => {
             <div className="max-w-screen-2xl w-full mx-auto px-4 flex justify-between items-center">
 
             <h1>
-                <a href="/" className="logo"><img src="/src/favicon/home.png" width={40} height={40} alt="Kiều Tấn Anh Minh"/></a>
+                <a href="/" className="logo"><img src="/home.png" width={40} height={40} alt="Kiều Tấn Anh Minh"/></a>
             </h1>
             <div className=""> <button className="menu-btn md:hidden" onClick={() => setNavOpen((prev) => !prev)}
                 >

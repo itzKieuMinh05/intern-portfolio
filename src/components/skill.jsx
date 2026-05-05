@@ -72,17 +72,17 @@ const skillItem = [
     desc: 'Analytics engineering / transformations'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg',
     label: 'Power BI',
     desc: 'Business intelligence & analytics'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg',
     label: 'Grafana',
     desc: 'Monitoring & visualization'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/apache_superset/apache_superset-icon.svg',
+    imgSrc: 'https://www.vectorlogo.zone/logos/apache_superset/apache_superset-ar21.svg',
     label: 'Apache Superset',
     desc: 'Data visualization & BI'
   }
