@@ -10,8 +10,8 @@ const Hero = () => {
     const [isCvModalOpen, setIsCvModalOpen] = useState(false);
 
     const downloadCV = (type) => {
-        const da = '/src/favicon/CV-DA-KieuTanAnhMinh.pdf';
-        const de = '/src/favicon/CV-DE-KieuTanAnhMinh.pdf';
+        const da = '/CV-DA-KieuTanAnhMinh.pdf';
+        const de = '/CV-DE-KieuTanAnhMinh.pdf';
         const chosen = type === 'da' ? da : de;
 
         const a = document.createElement('a');
@@ -32,7 +32,7 @@ const Hero = () => {
                 <div>
                     <div className="flex items-center gap-3">
                         <figure className="img-box w-9 h-9 rounded-lg">
-                            <img src="./src/favicon/kieuminh.png" width={40} height={40} alt="Kiều Tấn Anh Minh" className="img-cover" />
+                            <img src="/kieuminh.png" width={40} height={40} alt="Kiều Tấn Anh Minh" className="img-cover" />
                         </figure>
                         <div className="flex items-center gap-1.5 text-zinc-400 text-sm tracking-wide">
                             <span className="relative w-2 h-2 rounded-full bg-emerald-400">
@@ -64,7 +64,7 @@ const Hero = () => {
                 <div className="hidden lg:block">
                     <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to 65% rounded-[60px] overflow-hidden">
                         <img 
-                        src="./src/favicon/kieuminh.png" 
+                        src="/kieuminh.png" 
                         width={656}
                         height={800}
                         alt="Kiều Minh" 

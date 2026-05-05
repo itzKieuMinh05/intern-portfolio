@@ -7,67 +7,67 @@ import SkillCard from "./skillcard.jsx";
 
 const skillItem = [
   {
-    imgSrc: './src/favicon/cpp.jpg',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg',
     label: 'C++',
     desc: 'Programming Language'
   },
   {
-    imgSrc: './src/favicon/html.png',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg',
     label: 'HTML',
     desc: 'Markup Language'
   },
   {
-    imgSrc: './src/favicon/js.png',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
     label: 'JavaScript',
     desc: 'Interaction'
   },
   {
-    imgSrc: './src/favicon/python.png',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg',
     label: 'Python',
     desc: 'Programming Language'
   },
   {
-    imgSrc: './src/favicon/sqlserver2.jpg',
+    imgSrc: 'https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg',
     label: 'SQL Server',
     desc: 'Database Management System'
   },
   {
-    imgSrc: '/src/favicon/react.jpg',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     label: 'React',
     desc: 'Framework'
   },
   {
-    imgSrc: './src/favicon/springboot.png',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg',
     label: 'Spring Boot',
     desc: 'Framework'
   },
   {
-    imgSrc: '/src/favicon/tailwind.png',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg',
     label: 'TailwindCSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: '/src/favicon/kafka.png',
+    imgSrc: 'https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg',
     label: 'Apache Kafka',
     desc: 'Distributed streaming platform'
   },
   {
-    imgSrc: '/src/favicon/spark.png',
+    imgSrc: 'https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg',
     label: 'Apache Spark',
     desc: 'Big data processing engine'
   },
   {
-    imgSrc: '/src/favicon/airflow.png',
+    imgSrc: 'https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg',
     label: 'Apache Airflow',
     desc: 'Workflow orchestration'
   },
   {
-    imgSrc: '/src/favicon/docker.png',
+    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg',
     label: 'Docker',
     desc: 'Containerization'
   },
   {
-    imgSrc: '/src/favicon/dbt.png',
+    imgSrc: 'https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg',
     label: 'dbt',
     desc: 'Analytics engineering / transformations'
   }
