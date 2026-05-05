@@ -27,7 +27,7 @@ const skillItem = [
     desc: 'Programming Language'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftsqlserver.svg',
     label: 'SQL Server',
     desc: 'Database Management System'
   },
@@ -47,17 +47,17 @@ const skillItem = [
     desc: 'User Interface'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachekafka.svg',
     label: 'Apache Kafka',
     desc: 'Distributed streaming platform'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachespark.svg',
     label: 'Apache Spark',
     desc: 'Big data processing engine'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apacheairflow.svg',
     label: 'Apache Airflow',
     desc: 'Workflow orchestration'
   },
@@ -67,22 +67,22 @@ const skillItem = [
     desc: 'Containerization'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dbt.svg',
     label: 'dbt',
     desc: 'Analytics engineering / transformations'
   },
   {
-    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg',
     label: 'Power BI',
     desc: 'Business intelligence & analytics'
   },
   {
-    imgSrc: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/grafana.svg',
     label: 'Grafana',
     desc: 'Monitoring & visualization'
   },
   {
-    imgSrc: 'https://www.vectorlogo.zone/logos/apache_superset/apache_superset-ar21.svg',
+    imgSrc: 'https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachesuperset.svg',
     label: 'Apache Superset',
     desc: 'Data visualization & BI'
   }
