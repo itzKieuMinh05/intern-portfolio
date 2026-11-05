@@ -53,7 +53,7 @@ const Education = () => {
               <div className="rounded-2xl bg-zinc-950/40 px-4 py-3 ring-1 ring-inset ring-zinc-50/5 min-w-fit">
                 <p className="text-xs uppercase tracking-[0.2em] text-zinc-400 mb-1">GPA</p>
                 <p className="text-2xl font-semibold text-sky-400">3.5/4.0</p>
-                <p className="text-sm text-zinc-400">8.11/10</p>
+                <p className="text-sm text-zinc-400">8.14/10</p>
               </div>
             </div>
 
